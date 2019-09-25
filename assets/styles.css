@@ -1,0 +1,302 @@
+body{
+	background-color: #d88179;
+	font-family: "Palatino Linotype", "Book Antiqua", "Palatino" , "serif";
+	color: #59264e;
+	font-size: 13pt;
+
+}
+section{
+	padding:  0 1.5em;
+}
+
+h1{
+	color: #59264e;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+h2{
+	color: #59264e;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+#references{
+	color: #59264e;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+
+#homepage{
+	color: #59264e;
+	text-align: center;
+	font-style: italic;
+	text-decoration: underline;
+
+}
+
+.topnav{
+	float:left;
+	background-color: #59264e;
+}
+
+.topnav a {
+    float: left;
+    color: #d88179;
+    text-align: padding-right;
+    padding: 5px 5px;
+    text-decoration: underline;
+    font-size: 24px;
+		display: block;
+}
+
+.topnav a:hover {
+    background-color: #d88179;
+    color:  #59264e;
+}
+
+.topnav a:active {
+    background-color: black;
+    color: white;
+}
+.image-ovals{
+	text-align: left;
+	float: left;
+}
+
+#namaste{
+	float: center;
+	border-style: solid;
+	border-color: black;
+	position: fixed;
+  	top: 10%;
+  	left: 50%;
+  	margin-top: -20px;
+  	margin-left: -100px;
+}
+
+figcaption{
+	font-style: italic;
+	font-size: 11pt;
+	text-align: center;
+}
+
+#guru{
+	border-color: black;
+	position: fixed;
+  margin-top: 25px;
+  margin-left: -1px;
+}
+
+#history{
+	position: fixed;
+  	top: 6%;
+  	left: 83%;
+  	margin-top: 25px;
+  	margin-left: -70px;
+}
+
+#dance{
+	position: fixed;
+  	top: 20%;
+  	left: 15%;
+  	margin-top: 90px;
+  	margin-left: 100px;
+}
+
+#about{
+	position: fixed;
+  top: 30%;
+	left: 63%;
+  margin-top: 25px;
+  margin-left: -26px;
+}
+
+#contact{
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -98px;
+}
+
+#siddstatue{
+	float: left;
+	text-align: left;
+}
+#bs{
+	border-style: solid;
+	border-color: black;
+}
+.b{
+	border-radius: 50%;
+	border-color: black;
+	border-style: solid;
+}
+
+
+#vempati{
+	float: left;
+	text-align: left;
+}
+
+#bvempati{
+	border-style: solid;
+	border-color: black;
+}
+
+#uncle1{
+	float: right;
+	text-align: right;
+}
+
+#buncle1{
+	border-style: solid;
+	border-color: black;
+}
+
+#kathak{
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+#kathakali{
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+#odissi{
+  	margin-top: 20px;
+  	margin-left: 100px;
+}
+
+#bharata{
+  	margin-top: 10px;
+  	margin-left: 50px;
+}
+
+#mohini{
+	margin-top: 10px;
+	margin-left: 50px;
+}
+
+.images-contactpage{
+	text-align: left;
+	float: left;
+}
+
+iframe{
+	float:right;
+	border-style: solid;
+	border-color: black;
+	border-width: thick;
+}
+
+#video{
+	float: right;
+	text-align: right;
+
+}
+
+#contact-info {
+	text-align: center;
+
+}
+
+#contact-info > ol{
+	text-align: center;
+}
+#group1{
+  margin-top: 50px;
+  margin-left: 100px;
+	border-style:solid;
+	border-color:black;
+
+}
+
+#group3{
+  margin-top: 5px;
+  margin-left: 35px;
+	-webkit-transform:rotate(-355deg);
+	-moz-transform: rotate(-355deg);
+	-ms-transform: rotate(-355deg);
+	-o-transform: rotate(-355deg);
+	transform: rotate(-355deg);
+	border-style:solid;
+	border-color:black;
+}
+
+#group4{
+  margin-top: 25px;
+  margin-left: 35px;
+	border-style:solid;
+	border-color:black;
+	-webkit-transform:rotate(357deg);
+	-moz-transform: rotate(357deg);
+	-ms-transform: rotate(357deg);
+	-o-transform: rotate(357deg);
+	transform: rotate(357deg);
+}
+
+
+
+
+#pieces{
+	text-align: center;
+}
+p{
+	line-height: 2;
+	padding: 5px;
+}
+
+#center {
+	width: 200px;
+}
+#container {
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+
+#container2{
+	display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+#forms-container1 {
+	display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#forms-container2 {
+	display: grid;
+    grid-template-columns: 1fr 1fr ;
+}
+
+#textandOdissi{
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+}
+#dancepagetext1{
+	text-align: center;
+	margin-top: 50%;
+
+}
+
+#dancepagetext2{
+	text-align: center;
+	margin-top: 50%;
+
+}
+
+#links{
+	position:fixed;
+	bottom:0;
+	display:block;
+}
